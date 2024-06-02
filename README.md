@@ -8,7 +8,7 @@ All the sensitive information has been excluded during data encoding and finally
 causes of the accident by analyzing it using different machine learning classification algorithms.
 
 # Conclusion
-Given specific parameters, a model was developed to predict the severity of accidents, categorized as;
+Given specific parameters, a model was developed to predict the severity of accidents, categorized as:
 1=normal 
 2=serious
 3=dangerous
