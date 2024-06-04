@@ -9,9 +9,9 @@ causes of the accident by analyzing it using different machine learning classifi
 
 #### Conclusion
 Given specific parameters, a model was developed to predict the severity of accidents, categorized as:
-## 1=normal 
-## 2=serious
-## 3=dangerous
+#### 1=normal 
+#### 2=serious
+#### 3=dangerous
 Machine learning algorithms, logistic regression and decision tree, were employed for this task. 
 The logistic regression model achieved an accuracy of 91.67%.
 Decision tree model achieved a slightly lower accuracy of 83.33%. 
